@@ -1,6 +1,5 @@
-# evaluation metrics: MAP, P@k, nDCG, nDCG@k
+# We implement in this file all the evaluation metrics used in our experiments including MAP, P@k, nDCG and nDCG@k.
 
-import os
 import numpy as np
 import pandas as pd
 import sys
@@ -162,3 +161,4 @@ if __name__ == '__main__':
     # "result/WT2G-BM25-1.2-0.35.xls"
     outFile = argv[3]
     eval_one_file(resultFile, qrelsFile, outFile)
+    
