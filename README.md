@@ -60,14 +60,14 @@ namely AP (Associated Press 1988-90), DISK1&2, DISK4&5, ROBUST04 (TREC Robust Tr
 WT2G (TREC Web Track 2000), WT10G (TREC Web Track 2001- 2002) and GOV2. Note that AP, DISK1&2, DISK4&5, ROBUST04 and 
 WSJ are popular newswire collections where noise is rare, while WT2G, WT10G and GOV2 are collections consisting of web 
 documents with inherent noises.
-- [AP](http://opus.nlpl.eu/OpenSubtitles-v2018.php).
-- [DISK1\&2](http://opus.nlpl.eu/OpenSubtitles-v2018.php).
-- [DISK4\&5](http://yanran.li/dailydialog.html).
-- [ROBUST04](http://opus.nlpl.eu/OpenSubtitles-v2018.php).
-- [WSJ](http://opus.nlpl.eu/OpenSubtitles-v2018.php).
-- [WT2G](http://opus.nlpl.eu/OpenSubtitles-v2018.php).
-- [WT10G](http://opus.nlpl.eu/OpenSubtitles-v2018.php).
-- [GOV](http://opus.nlpl.eu/OpenSubtitles-v2018.php).
+- [AP](https://www.bing.com).
+- [DISK1\&2](https://www.bing.com).
+- [DISK4\&5](https://www.bing.com).
+- [ROBUST04](https://www.bing.com).
+- [WSJ](https://www.bing.com).
+- [WT2G](https://www.bing.com).
+- [WT10G](https://www.bing.com).
+- [GOV](https://www.bing.com).
 
 
 ### Acknowledgments
