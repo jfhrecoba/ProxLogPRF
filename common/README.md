@@ -1,1 +1,6 @@
-
+- common
+  - ByWeightComparator.java -- numerical comparator.
+  - MyQQParser.java -- simplistic quality query parser.
+  - MyTrecParser.java -- TREC document analyzer.
+  - QualityStats.java -- compute the results (MAP, P@k and MRR) of quality benchmark run for a single query or for a set of queries.
+  - StaTools.java -- implementation on some basic statistical functions.
