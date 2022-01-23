@@ -1,4 +1,4 @@
-package ProxPRF;
+package models;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
@@ -116,10 +116,6 @@ public class ProxLogPRF {
 			System.exit(0);
 		}
 		
-//		String indexFile = "indices/index_AP90";
-//		String topicsFile = "query-judge/topics.AP90.51-100";
-//		String qrelsFile = "query-judge/qrels.AP90.51-100";
-//		String dataSetName="AP90";
 		
 		String topicsFile = "query-judge/topics.WT2G";
 		String qrelsFile = "query-judge/qrels.WT2G";
